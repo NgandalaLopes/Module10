@@ -2,8 +2,9 @@
 ## Description
 
 
+##### Requires:
+[![N|Node](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)](https://nodejs.org)
 
-## Credits
 - Bootstrap: https://getbootstrap.com/
 - NodeJS: https://nodejs.org/en/
 - Jest: https://www.npmjs.com/package/jest
@@ -15,5 +16,19 @@ This is a screenshot of the generated HTML webpage.
 ![Team Generator HTML Webpage Screenshot](./assets/screenshot_team_profile.png)
 
 ## Walkthrough Gif
-![Team Generator Walkthrough Video](./assets/team_profile.gif)
+![Team Generator Walkthrough Video](./assets/team_profile_animated.gif)
 
+
+
+
+## Walkthrough Video
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
+To install this project into your own, use:
+```sh 
+git clone https://github.com/NgandalaLopes/Module10.git
+cd Module10
+npm install
+npm run test
+node index.js
+```
