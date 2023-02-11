@@ -22,7 +22,7 @@ This is a screenshot of the generated HTML webpage.
 
 
 ## Walkthrough Video
-[<img src="https://raw.githubusercontent.com/NgandalaLopes/Module10/master/assets/screenshot_team_profile.png" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "See Video Walkthrough")
+[<img src="https://raw.githubusercontent.com/NgandalaLopes/Module10/master/assets/screenshot_team_profile.png" width="50%">](https://www.youtube.com/watch?v=tr9zI-RppZY "See Video Walkthrough")
 
 To install this project into your own, use:
 ```sh 
