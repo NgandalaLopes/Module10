@@ -14,5 +14,8 @@ This is a screenshot of the generated HTML webpage.
 
 ![Team Generator HTML Webpage Screenshot](./assets/screenshot_team_profile.png)
 
-## Walkthrough Video
+## Walkthrough Gif
 ![Team Generator Walkthrough Video](./assets/team_profile.gif)
+
+## Walkthrough Video
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
