@@ -1,0 +1,27 @@
+body { 
+    background-color:#f2f2f1 !important;
+}
+
+.bg-primary {
+    background-color:#8bb8a2 !important;
+}
+.jumbotron {
+    border-radius: 0; 
+}
+.bg-danger {
+    background-color:#636c78 !important;
+}
+.employee-card {
+    box-shadow: 3px 4px 5px #c9cccf;
+    margin: 1rem;
+    border: none;
+}
+
+.card-body {
+    background-color: #fff;
+    border-radius: 25px;
+}
+
+a {
+    color: #636c78 !important;
+}
